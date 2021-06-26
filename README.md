@@ -2,16 +2,6 @@
 
 This Ansible Playbook will helps you to Install LAMP and LEMP in both CentOS and Ubuntu at a time. Ansible is an open source IT Configuration Management, Deployment & Orchestration tool. It aims to provide large productivity gains to a wide variety of automation challenges.
 
-## Features of Terraform
-
-- Infrastructure Provisioning
-- Configuration Management
-- IT automation
-- Continuous deployment
-- Application Development
-- Network Automation
-- Security Automation
-- Infrastructure Orchestration 
 
 ## Prerequisites
 - Ansible version - 2.9
@@ -79,6 +69,12 @@ Run the ansible-playbook from the master server by below command,
 $ ansible-playbook -i hosts apache-nginx.yml
 ```
 
-## Results:
+## Results
 Access the IP address of the Remote Host servers in Browser and you can see the wordpress page.
+
+## Author
+Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
+
+<a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebinxavi"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
 
