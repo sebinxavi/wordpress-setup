@@ -70,7 +70,7 @@ $ ansible-playbook -i hosts apache-nginx.yml
 ```
 
 ## Results
-Access the IP address of the Remote Host servers in Browser and you can see the wordpress page.
+Access the IP address of the Remote Host servers in Browser and you can see the Wordpress page.
 
 ## Author
 Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
